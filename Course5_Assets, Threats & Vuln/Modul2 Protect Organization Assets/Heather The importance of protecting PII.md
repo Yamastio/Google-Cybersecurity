@@ -4,7 +4,7 @@ aliases: []
 tags: []
 ---
 
-Tags: [[google_cybersecurity]]
+Tags: [[googlecybersecurity]]
 
 ## Ringkasan: Pentingnya Perlindungan PII (Personally Identifiable Information)
 
